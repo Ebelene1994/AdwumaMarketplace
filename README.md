@@ -13,7 +13,7 @@ AdwumaMarketplace is a web platform that connects consumers with local farmers, 
 
 ## 🚀 Live Demo
 
-> 👉 [Visit AdwumaMarketplace Store]https://adwumamarket.netlify.app/
+> 👉 [Visit AdwumaMarketplace Store] (https://adwumamarket.netlify.app/)
 
 ## 🧰 Tech Stack
 
