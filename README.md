@@ -1,6 +1,6 @@
-# 🛒 AdwumaMarket
+# 🛒 AdwumaMarketplace
 
-AdwumaMarket is a web platform that connects consumers with local farmers, offering fresh, organic farm produce delivered quickly and directly—no middlemen involved.
+AdwumaMarketplace is a web platform that connects consumers with local farmers, offering fresh, organic farm produce delivered quickly and directly—no middlemen involved.
 
 ![Screenshot](https://i.postimg.cc/dVrHNVpb/Screenshot-2025-07-16-130404.png)
 
@@ -13,7 +13,7 @@ AdwumaMarket is a web platform that connects consumers with local farmers, offer
 
 ## 🚀 Live Demo
 
-> https://adwumamarket.netlify.app/
+> 👉 [Visit AdwumaMarketplace Store]https://adwumamarket.netlify.app/
 
 ## 🧰 Tech Stack
 
