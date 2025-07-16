@@ -2,7 +2,7 @@
 
 AdwumaMarket is a web platform that connects consumers with local farmers, offering fresh, organic farm produce delivered quickly and directly—no middlemen involved.
 
-![Screenshot](./032dc9c4-a7df-429a-85cc-980dd3ca55d3.png)
+![Screenshot](https://i.postimg.cc/dVrHNVpb/Screenshot-2025-07-16-130404.png)
 
 ## 🌟 Key Features
 
@@ -17,11 +17,8 @@ AdwumaMarket is a web platform that connects consumers with local farmers, offer
 
 ## 🧰 Tech Stack
 
-- **Frontend**: [Add framework used e.g., React.js, Vue.js]
-- **Backend**: [Add backend technology if applicable]
-- **Database**: [e.g., MongoDB, PostgreSQL, etc.]
-- **Authentication**: JWT / Firebase / Auth0 (if any)
-- **Hosting**: [e.g., Vercel, Netlify, AWS, etc.]
+- **Frontend**: [React.js,Tailwind,Vite]
+- **Hosting**: [ Netlify]
 
 ## 🛠️ Installation
 
