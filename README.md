@@ -13,12 +13,12 @@ AdwumaMarket is a web platform that connects consumers with local farmers, offer
 
 ## 🚀 Live Demo
 
-> Coming soon...
+> https://adwumamarket.netlify.app/
 
 ## 🧰 Tech Stack
 
-- **Frontend**: [React.js,Tailwind,Vite]
-- **Hosting**: [ Netlify]
+- **Frontend**: React.js,Tailwind and Vite
+- **Hosting**: Netlify
 
 ## 🛠️ Installation
 
